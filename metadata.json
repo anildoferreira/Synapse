@@ -1,0 +1,5 @@
+{
+  "name": "Synapse AI Agent Dashboard",
+  "description": "A management dashboard to visualize and interact with the Synapse hierarchical AI agent system, based on the Dynamic Hierarchical Lineage Model.",
+  "requestFramePermissions": []
+}
